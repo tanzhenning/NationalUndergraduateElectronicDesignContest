@@ -1,1 +1,1 @@
-# competition
+# 2025 National Undergraduate Electronic Design Contest
